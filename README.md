@@ -1,5 +1,5 @@
 # MHG4SNA
-Annotations on middle high german texts for social network analysis
+>Annotations on middle high german texts for social network analysis
 
 This corpus contains multiple middle high german texts with annotations for social network analysis. 
 It contains annotations of: named entities and entity mentions (including partial coreference resolution), direct speech, narrator's comments. See below for further description.
@@ -12,14 +12,14 @@ tbc
 
 # Annotations
 
-Named Entities and Entity Mentions
+>Named Entities and Entity Mentions
 PER + LOC
 
-Entity Groundings
+>Entity Groundings
 
-Direct Speech
+>Direct Speech
 
-Narrator's comments
+>Narrator's comments
 
 tbc
 
