@@ -54,6 +54,8 @@ As additional category I annotated passages that contain statements of the narra
 
 The texts are subdivided in passages of 30 verses. Since some text's editions ('Parzival', 'Willehalm') contain a formal segmentation in passages of 30 verses each, the same kind of segmentation has been transfered to the other texts. This means 'segment 1' contains the first 30 verses, 'segment 2' contains verses 31-60 and so on.
 
+According to the editions by Lachmann, 'Parzival' and 'Willehalm' are also subdivided in chapter-like books (Parzival: book 1 to 16, Willehalm: book 1 to 9). The other texts are similarly subdivided in chapter-like sections following common content-based divisions.
+
 tbc
 
 # Data downloads
@@ -76,8 +78,10 @@ The annotated texts can be downloaded in multiple formats: conll, csv, and gexf.
 
 (7) DS: '1' if the token is tagged as direct speech, '0' if not.
 
->Csv
+>Csv 
 
 >Gexf
+
+add that EK and DS are optional filters that can be selecte or deselected.
 
 tbc
