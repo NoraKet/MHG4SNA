@@ -41,19 +41,43 @@ All annotated entity references are mapped to the entity instance that they refe
 E.g. the refences 'Parzival', 'Herzeloyde's son', 'the young man', 'the red knight' etc. all refer to the character instance 'Parzival'.
 The entity grounding takes into consideration the context of the entity mentions since one and the same expression can refer to different instances (in one context 'the king' refers to Arthur, in another context to Gahmuret).
 
->Direct Speech
+>Direct Speech (DS)
 
 Passages of direct speech have been annotated by detecting quotation marks. They are tagged as 'DS'.
 There are a few cases of embedded direct speech (passages of direct speech containing another passage of direct speech); these cases are annotated as well.
 
->Narrator's comments
+>Narrator's comments (EK)
 
 As additional category I annotated passages that contain statements of the narrator, narrator's comments, extensive descriptions or digressions (e.g. an excursus to a specific topic). These passages are not part of the fictional world or lead to a pause in the timeline of events. The are annotated as 'EK' ('EK': passages that aren't part of the diegesis, 'EK2': passages that lead to a pause, e.g. comments or descriptions).
+
+>Segmentation
+
+The texts are subdivided in passages of 30 verses. Since some text's editions ('Parzival', 'Willehalm') contain a formal segmentation in passages of 30 verses each, the same kind of segmentation has been transfered to the other texts. This means 'segment 1' contains the first 30 verses, 'segment 2' contains verses 31-60 and so on.
 
 tbc
 
 # Data downloads
-csv and gexf
 
+The annotated texts can be downloaded in multiple formats: conll, csv, and gexf.
 
+>Conll contains seven columns:
 
+(1) token
+
+(2) POS-tag, tagged using a middle high german pos tagger [LINK]
+
+(3) number of segment
+
+(4) Entity reference annotation indicating the intance that the entity reference refers to. '-' if there is no entity reference.
+
+(5) EK: '1' in case there is an annotation of 'EK', '0' if not.
+
+(6) EK2: '1' in case there is an annotation of 'EK2', '0' if not.
+
+(7) DS: '1' if the token is tagged as direct speech, '0' if not.
+
+>Csv
+
+>Gexf
+
+tbc
