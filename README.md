@@ -35,7 +35,7 @@ Entity references can contain multiple words, e.g. 'the lovely queen Ginover', a
 
 The annotations follow the guidelines created for multiple categories and disciplines in the context of CRETA. They are published here: LINK 
 
->Entity Groundings
+>Entity Grounding
 
 All annotated entity references are mapped to the entity instance that they refer to. 
 E.g. the refences 'Parzival', 'Herzeloyde's son', 'the young man', 'the red knight' etc. all refer to the character instance 'Parzival'.
