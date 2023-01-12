@@ -1,0 +1,10 @@
+The conll files contain seven columns:
+(1) token
+(2) POS-tag, tagged using a middle high german pos tagger
+(3) number of segment
+(4) Entity reference annotation indicating the intance that the entity reference refers to. '-' if there is no entity reference.
+(5) EK: '1' in case there is an annotation of 'EK', '0' if not.
+(6) EK2: '1' in case there is an annotation of 'EK2', '0' if not.
+(7) DS: '1' if the token is tagged as direct speech, '0' if not.
+
+For more information see README in MHG4SNA.
