@@ -1,0 +1,10 @@
+The gexf files can be used to import the data to gephi, https://gephi.org/. 
+The occurrences of the characters are based on the annotation and grounding of entities (categorie PER). 
+A relation between entities is based on co-occurrence (whenever two or more entities co-occur in a segment, they have a relation; with more relations, the intensity of their relation grows).
+
+Embedded entities are excluded. 
+Entities mentioned in direct speech (DS) or in comments (EK) can optionally be selected or deselected. 
+These optional filters are indicated in the name of the files.
+E.g. file erec_gephi_noEK_noEK2 exludes all entity references that are annotated within a comment section (EK and EK2), but includes entity references that are part of a direct speech section.
+
+For more information on the annotations see README in MHG4SNA.
