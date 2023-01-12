@@ -101,8 +101,12 @@ To visualize the graph dynamically, one can use the text segmentation as timelin
 
 [1] https://www.creta.uni-stuttgart.de/, the project was funded by BMBF.
 
-[2] for more information cf.
+[2] for more information cf. Nora Ketschik, Maximilian Overbeck, Sandra Murr, Axel Pichler, André Blessing (2020). "Interdisziplinäre Annotation von Entitätenreferenzen." Reflektierte algorithmische Textanalyse. Interdisziplinäre(s) Arbeiten in der CRETA-Werkstatt, ed. by Nils Reiter, Axel Pichler and Jonas Kuhn, pp. 203-263.
 
-[3] Nora Echelmeyer, Nils Reiter, Sarah Schulz (2017). Ein PoS-Tagger für "das" Mittelhochdeutsche. Dhd 2017 Konferenzabstracts, pp. 141-147. An online version can be used here: http://clarin05.ims.uni-stuttgart.de/mhdtt/index.html; the mhg model can be downloaded here: https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/pos-tag-mhg/.
+[3] Nora Echelmeyer, Nils Reiter, Sarah Schulz (2017). "Ein PoS-Tagger für 'das' Mittelhochdeutsche." Dhd 2017 Konferenzabstracts, pp. 141-147. An online version can be used here: http://clarin05.ims.uni-stuttgart.de/mhdtt/index.html; the mhg model can be downloaded here: https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/pos-tag-mhg/.
 
-[4] https://gephi.org/, cf. Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
+[4] https://gephi.org/, M. Bastian, S. Heymann, M. Jacomy (2009). "Gephi: an open source software for exploring and manipulating networks." International AAAI Conference on Weblogs and Social Media.
+
+# How to cite?
+
+Please cite the zenodo publication linked to this github repository: LINK tbc
