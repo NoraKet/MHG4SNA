@@ -56,7 +56,11 @@ The texts are subdivided in passages of 30 verses. Since some text's editions ('
 
 According to the editions by Lachmann, 'Parzival' and 'Willehalm' are also subdivided in chapter-like books (Parzival: book 1 to 16, Willehalm: book 1 to 9). The other texts are similarly subdivided in chapter-like sections following common content-based divisions.
 
-tbc
+> Social Network Analysis in Gephi
+
+The data can be used to explore and analyse the social network of the texts. SNA can be performed via gephi using the gefx files.
+
+The social network is based on co-occurrences using a) the annotated and grounded entities, and b) the text segmentation in segments of 30 verses each. A relation between two or more entities is extracted whenever they co-occur in a segment. 
 
 # Data downloads
 
@@ -80,8 +84,15 @@ The annotated texts can be downloaded in multiple formats: conll, csv, and gexf.
 
 >Csv 
 
+The csv file contains all annotations of the category PER including entity grounding. 
+
+The file contains the following columns: begin and end of the entity reference expression, doc_id (document id), buch (book number), quote (entity reference expression), coref (the entity instance that the expression refers to), overlap (indicates if there is an embedded entity), ek and ek2 (narrator's comment), ds (direct speech), space (annotations of the space where the story takes action, can be ignored here), segnr (number of segment), em (?), klasse (entity class), xrange (range).
+
 >Gexf
 
-add that EK and DS are optional filters that can be selecte or deselected.
+This file can be used to import the data to gephi. It is based on the annotation and grounding of entities (categorie PER). A relation between entities is based on co-occurrence (whenever two or more entities co-occur in a segment, they have a relation; with more relations, the intensitiy of their relation grows). The text segmentation is described above.
 
-tbc
+Embedded entities are excluded. Entities mentioned in direct speech (DS) or in comments (EK) can optionally be selected or deselected.
+These optional filters are indicated in the name of the files.
+
+To visualize the graph dynamically, one can use the text segmentation as timeline. 
