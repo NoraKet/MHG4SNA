@@ -5,7 +5,7 @@ This corpus contains multiple middle high german texts with annotations for soci
 It contains annotations of: named entities and entity mentions (including partial coreference resolution), direct speech, narrator's comments. See below for further description.
 The annotated texts are: 'Parzival' by Wolfram von Eschenbach, 'Erec' by Hartmann von Aue, 'Iwein' by Hartmann von Aue, 'Willehalm' by Wolfram von Eschenbach, and 'Rolandslied' by Pfaffe Konrad.
 
-The annotated texts are part of my dissertation on social network analysis of arthurian romances. The research was developed in the context of the DH center CRETA at the university of Stuttgart.
+The annotated texts are part of my dissertation on social network analysis of arthurian romances. The research was developed in the context of the DH center CRETA at the university of Stuttgart. [1]
 
 # Texts
 Wolfram von Eschenbach: 'Parzival', in: Wolfram von Eschenbach: Werke, ed. by Karl Lachmann, 5th edition, Berlin 1891, pp. 11–388.
@@ -33,7 +33,7 @@ LOC stands for 'location' and includes real and fictional places.
 I annotated named entities (e.g. 'Parzival' as PER or 'Nantes' as LOC) as well as entity mentions referring to an instance of PER or LOC (e.g. 'the knight' for Parzival, or 'the city' for Nantes). I did not annotate pronouns.
 Entity references can contain multiple words, e.g. 'the lovely queen Ginover', and they can be nested, e.g. '[the son of [the king Gahmuret]]'.
 
-The annotations follow the guidelines created for multiple categories and disciplines in the context of CRETA. They are published here: LINK 
+The annotations follow the guidelines created for multiple categories and disciplines in the context of CRETA. They are published here: LINK. [2]
 
 >Entity Grounding
 
@@ -56,9 +56,9 @@ The texts are subdivided in passages of 30 verses. Since some text's editions ('
 
 According to the editions by Lachmann, 'Parzival' and 'Willehalm' are also subdivided in chapter-like books (Parzival: book 1 to 16, Willehalm: book 1 to 9). The other texts are similarly subdivided in chapter-like sections following common content-based divisions.
 
-> Social Network Analysis in Gephi
+> Social Network Analysis
 
-The data can be used to explore and analyse the social network of the texts. SNA can be performed via gephi using the gefx files.
+The data can be used to explore and analyse the social network of the texts. SNA can be performed via gephi [4] using the gefx files.
 
 The social network is based on co-occurrences using a) the annotated and grounded entities, and b) the text segmentation in segments of 30 verses each. A relation between two or more entities is extracted whenever they co-occur in a segment. 
 
@@ -70,7 +70,7 @@ The annotated texts can be downloaded in multiple formats: conll, csv, and gexf.
 
 (1) token
 
-(2) POS-tag, tagged using a middle high german pos tagger [LINK]
+(2) POS-tag, tagged using a middle high german pos tagger [3]
 
 (3) number of segment
 
@@ -96,3 +96,13 @@ Embedded entities are excluded. Entities mentioned in direct speech (DS) or in c
 These optional filters are indicated in the name of the files.
 
 To visualize the graph dynamically, one can use the text segmentation as timeline. 
+
+# References
+
+[1] https://www.creta.uni-stuttgart.de/, the project was funded by BMBF.
+
+[2] for more information cf.
+
+[3] Nora Echelmeyer, Nils Reiter, Sarah Schulz (2017). Ein PoS-Tagger für "das" Mittelhochdeutsche. Dhd 2017 Konferenzabstracts, pp. 141-147. An online version can be used here: http://clarin05.ims.uni-stuttgart.de/mhdtt/index.html; the mhg model can be downloaded here: https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/pos-tag-mhg/.
+
+[4] https://gephi.org/, cf. Bastian M., Heymann S., Jacomy M. (2009). Gephi: an open source software for exploring and manipulating networks. International AAAI Conference on Weblogs and Social Media.
