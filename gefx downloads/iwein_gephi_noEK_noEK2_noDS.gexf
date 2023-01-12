@@ -1,0 +1,1355 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3">
+ <meta lastmodifieddate="2019-09-30">
+  <creator>Gephi.org</creator>
+  <description>CRETAnno Export</description>
+ </meta>
+ <graph defaultedgetype="undirected" idtype="string" mode="dynamic" timeformat="integer">
+  <attributes class="edge" mode="dynamic">
+   <attribute id="4" title="Weight" type="float"/>
+  </attributes>
+  <attributes class="node" mode="static">
+   <attribute id="5" title="Freq" type="integer"/>
+  </attributes>
+  <nodes count="31">
+   <node id="Artûs" label="Artûs">
+    <spells>
+     <spell start="256" end="257"/>
+     <spell start="2" end="3"/>
+     <spell start="258" end="259"/>
+     <spell start="3" end="4"/>
+     <spell start="4" end="5"/>
+     <spell start="260" end="261"/>
+     <spell start="30" end="31"/>
+     <spell start="81" end="82"/>
+     <spell start="82" end="83"/>
+     <spell start="85" end="86"/>
+     <spell start="86" end="87"/>
+     <spell start="87" end="88"/>
+     <spell start="89" end="90"/>
+     <spell start="90" end="91"/>
+     <spell start="92" end="93"/>
+     <spell start="99" end="100"/>
+     <spell start="103" end="104"/>
+     <spell start="104" end="105"/>
+     <spell start="107" end="108"/>
+     <spell start="108" end="109"/>
+     <spell start="191" end="192"/>
+     <spell start="192" end="193"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="243" end="244"/>
+     <spell start="245" end="246"/>
+     <spell start="251" end="252"/>
+     <spell start="254" end="255"/>
+     <spell start="255" end="256"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="29"/>
+    </attvalues>
+   </node>
+   <node id="Ältere Tochter (Gerichtskampf)" label="Ältere Tochter (Gerichtskampf)">
+    <spells>
+     <spell start="256" end="257"/>
+     <spell start="188" end="189"/>
+     <spell start="189" end="190"/>
+     <spell start="190" end="191"/>
+     <spell start="192" end="193"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="243" end="244"/>
+     <spell start="244" end="245"/>
+     <spell start="245" end="246"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="10"/>
+    </attvalues>
+   </node>
+   <node id="Ginover" label="Ginover">
+    <spells>
+     <spell start="2" end="3"/>
+     <spell start="3" end="4"/>
+     <spell start="4" end="5"/>
+     <spell start="260" end="261"/>
+     <spell start="5" end="6"/>
+     <spell start="8" end="9"/>
+     <spell start="28" end="29"/>
+     <spell start="30" end="31"/>
+     <spell start="190" end="191"/>
+     <spell start="251" end="252"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="10"/>
+    </attvalues>
+   </node>
+   <node id="Îwein" label="Îwein">
+    <spells>
+     <spell start="258" end="259"/>
+     <spell start="3" end="4"/>
+     <spell start="259" end="260"/>
+     <spell start="260" end="261"/>
+     <spell start="266" end="267"/>
+     <spell start="268" end="269"/>
+     <spell start="270" end="271"/>
+     <spell start="272" end="273"/>
+     <spell start="27" end="28"/>
+     <spell start="29" end="30"/>
+     <spell start="31" end="32"/>
+     <spell start="33" end="34"/>
+     <spell start="34" end="35"/>
+     <spell start="36" end="37"/>
+     <spell start="37" end="38"/>
+     <spell start="38" end="39"/>
+     <spell start="45" end="46"/>
+     <spell start="48" end="49"/>
+     <spell start="50" end="51"/>
+     <spell start="54" end="55"/>
+     <spell start="57" end="58"/>
+     <spell start="58" end="59"/>
+     <spell start="67" end="68"/>
+     <spell start="73" end="74"/>
+     <spell start="80" end="81"/>
+     <spell start="81" end="82"/>
+     <spell start="82" end="83"/>
+     <spell start="85" end="86"/>
+     <spell start="86" end="87"/>
+     <spell start="89" end="90"/>
+     <spell start="90" end="91"/>
+     <spell start="91" end="92"/>
+     <spell start="92" end="93"/>
+     <spell start="93" end="94"/>
+     <spell start="99" end="100"/>
+     <spell start="103" end="104"/>
+     <spell start="107" end="108"/>
+     <spell start="109" end="110"/>
+     <spell start="110" end="111"/>
+     <spell start="112" end="113"/>
+     <spell start="114" end="115"/>
+     <spell start="121" end="122"/>
+     <spell start="122" end="123"/>
+     <spell start="124" end="125"/>
+     <spell start="125" end="126"/>
+     <spell start="126" end="127"/>
+     <spell start="127" end="128"/>
+     <spell start="128" end="129"/>
+     <spell start="129" end="130"/>
+     <spell start="130" end="131"/>
+     <spell start="131" end="132"/>
+     <spell start="132" end="133"/>
+     <spell start="137" end="138"/>
+     <spell start="143" end="144"/>
+     <spell start="146" end="147"/>
+     <spell start="147" end="148"/>
+     <spell start="148" end="149"/>
+     <spell start="149" end="150"/>
+     <spell start="159" end="160"/>
+     <spell start="160" end="161"/>
+     <spell start="165" end="166"/>
+     <spell start="166" end="167"/>
+     <spell start="167" end="168"/>
+     <spell start="168" end="169"/>
+     <spell start="169" end="170"/>
+     <spell start="170" end="171"/>
+     <spell start="171" end="172"/>
+     <spell start="172" end="173"/>
+     <spell start="173" end="174"/>
+     <spell start="176" end="177"/>
+     <spell start="177" end="178"/>
+     <spell start="178" end="179"/>
+     <spell start="179" end="180"/>
+     <spell start="180" end="181"/>
+     <spell start="181" end="182"/>
+     <spell start="183" end="184"/>
+     <spell start="184" end="185"/>
+     <spell start="190" end="191"/>
+     <spell start="192" end="193"/>
+     <spell start="193" end="194"/>
+     <spell start="204" end="205"/>
+     <spell start="209" end="210"/>
+     <spell start="210" end="211"/>
+     <spell start="216" end="217"/>
+     <spell start="217" end="218"/>
+     <spell start="219" end="220"/>
+     <spell start="220" end="221"/>
+     <spell start="221" end="222"/>
+     <spell start="222" end="223"/>
+     <spell start="223" end="224"/>
+     <spell start="224" end="225"/>
+     <spell start="225" end="226"/>
+     <spell start="226" end="227"/>
+     <spell start="227" end="228"/>
+     <spell start="228" end="229"/>
+     <spell start="229" end="230"/>
+     <spell start="231" end="232"/>
+     <spell start="234" end="235"/>
+     <spell start="242" end="243"/>
+     <spell start="244" end="245"/>
+     <spell start="245" end="246"/>
+     <spell start="246" end="247"/>
+     <spell start="251" end="252"/>
+     <spell start="253" end="254"/>
+     <spell start="254" end="255"/>
+     <spell start="255" end="256"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="106"/>
+    </attvalues>
+   </node>
+   <node id="Segremors" label="Segremors">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="1"/>
+    </attvalues>
+   </node>
+   <node id="Dodines" label="Dodines">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="1"/>
+    </attvalues>
+   </node>
+   <node id="Keiî" label="Keiî">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="4" end="5"/>
+     <spell start="6" end="7"/>
+     <spell start="8" end="9"/>
+     <spell start="27" end="28"/>
+     <spell start="36" end="37"/>
+     <spell start="52" end="53"/>
+     <spell start="82" end="83"/>
+     <spell start="85" end="86"/>
+     <spell start="86" end="87"/>
+     <spell start="87" end="88"/>
+     <spell start="88" end="89"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="12"/>
+    </attvalues>
+   </node>
+   <node id="Gâwein" label="Gâwein">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="259" end="260"/>
+     <spell start="260" end="261"/>
+     <spell start="84" end="85"/>
+     <spell start="88" end="89"/>
+     <spell start="90" end="91"/>
+     <spell start="91" end="92"/>
+     <spell start="92" end="93"/>
+     <spell start="93" end="94"/>
+     <spell start="102" end="103"/>
+     <spell start="144" end="145"/>
+     <spell start="162" end="163"/>
+     <spell start="163" end="164"/>
+     <spell start="189" end="190"/>
+     <spell start="190" end="191"/>
+     <spell start="192" end="193"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="234" end="235"/>
+     <spell start="242" end="243"/>
+     <spell start="245" end="246"/>
+     <spell start="246" end="247"/>
+     <spell start="248" end="249"/>
+     <spell start="253" end="254"/>
+     <spell start="254" end="255"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="25"/>
+    </attvalues>
+   </node>
+   <node id="Harpîn" label="Harpîn">
+    <spells>
+     <spell start="259" end="260"/>
+     <spell start="164" end="165"/>
+     <spell start="167" end="168"/>
+     <spell start="168" end="169"/>
+     <spell start="169" end="170"/>
+     <spell start="170" end="171"/>
+     <spell start="190" end="191"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="7"/>
+    </attvalues>
+   </node>
+   <node id="Kâlogrenant" label="Kâlogrenant">
+    <spells>
+     <spell start="4" end="5"/>
+     <spell start="7" end="8"/>
+     <spell start="9" end="10"/>
+     <spell start="30" end="31"/>
+     <spell start="33" end="34"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="5"/>
+    </attvalues>
+   </node>
+   <node id="Laudîne" label="Laudîne">
+    <spells>
+     <spell start="260" end="261"/>
+     <spell start="262" end="263"/>
+     <spell start="263" end="264"/>
+     <spell start="268" end="269"/>
+     <spell start="271" end="272"/>
+     <spell start="44" end="45"/>
+     <spell start="45" end="46"/>
+     <spell start="46" end="47"/>
+     <spell start="47" end="48"/>
+     <spell start="48" end="49"/>
+     <spell start="49" end="50"/>
+     <spell start="54" end="55"/>
+     <spell start="58" end="59"/>
+     <spell start="59" end="60"/>
+     <spell start="60" end="61"/>
+     <spell start="63" end="64"/>
+     <spell start="67" end="68"/>
+     <spell start="70" end="71"/>
+     <spell start="73" end="74"/>
+     <spell start="74" end="75"/>
+     <spell start="78" end="79"/>
+     <spell start="79" end="80"/>
+     <spell start="80" end="81"/>
+     <spell start="81" end="82"/>
+     <spell start="89" end="90"/>
+     <spell start="92" end="93"/>
+     <spell start="98" end="99"/>
+     <spell start="99" end="100"/>
+     <spell start="103" end="104"/>
+     <spell start="108" end="109"/>
+     <spell start="131" end="132"/>
+     <spell start="132" end="133"/>
+     <spell start="182" end="183"/>
+     <spell start="184" end="185"/>
+     <spell start="185" end="186"/>
+     <spell start="218" end="219"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="36"/>
+    </attvalues>
+   </node>
+   <node id="Lûnete" label="Lûnete">
+    <spells>
+     <spell start="261" end="262"/>
+     <spell start="262" end="263"/>
+     <spell start="264" end="265"/>
+     <spell start="265" end="266"/>
+     <spell start="266" end="267"/>
+     <spell start="268" end="269"/>
+     <spell start="269" end="270"/>
+     <spell start="272" end="273"/>
+     <spell start="39" end="40"/>
+     <spell start="44" end="45"/>
+     <spell start="48" end="49"/>
+     <spell start="50" end="51"/>
+     <spell start="58" end="59"/>
+     <spell start="59" end="60"/>
+     <spell start="61" end="62"/>
+     <spell start="67" end="68"/>
+     <spell start="70" end="71"/>
+     <spell start="73" end="74"/>
+     <spell start="74" end="75"/>
+     <spell start="76" end="77"/>
+     <spell start="91" end="92"/>
+     <spell start="104" end="105"/>
+     <spell start="107" end="108"/>
+     <spell start="108" end="109"/>
+     <spell start="134" end="135"/>
+     <spell start="172" end="173"/>
+     <spell start="173" end="174"/>
+     <spell start="175" end="176"/>
+     <spell start="177" end="178"/>
+     <spell start="179" end="180"/>
+     <spell start="180" end="181"/>
+     <spell start="182" end="183"/>
+     <spell start="186" end="187"/>
+     <spell start="197" end="198"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="34"/>
+    </attvalues>
+   </node>
+   <node id="Uterpandragôn" label="Uterpandragôn">
+    <spells>
+     <spell start="30" end="31"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="1"/>
+    </attvalues>
+   </node>
+   <node id="Waldmann" label="Waldmann">
+    <spells>
+     <spell start="33" end="34"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="1"/>
+    </attvalues>
+   </node>
+   <node id="Ascalôn" label="Ascalôn">
+    <spells>
+     <spell start="34" end="35"/>
+     <spell start="36" end="37"/>
+     <spell start="37" end="38"/>
+     <spell start="38" end="39"/>
+     <spell start="41" end="42"/>
+     <spell start="44" end="45"/>
+     <spell start="54" end="55"/>
+     <spell start="74" end="75"/>
+     <spell start="82" end="83"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="9"/>
+    </attvalues>
+   </node>
+   <node id="Artushof (Kollektiv)" label="Artushof (Kollektiv)">
+    <spells>
+     <spell start="86" end="87"/>
+     <spell start="103" end="104"/>
+     <spell start="230" end="231"/>
+     <spell start="254" end="255"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="4"/>
+    </attvalues>
+   </node>
+   <node id="Gräfin von Nârisôn" label="Gräfin von Nârisôn">
+    <spells>
+     <spell start="113" end="114"/>
+     <spell start="114" end="115"/>
+     <spell start="115" end="116"/>
+     <spell start="122" end="123"/>
+     <spell start="125" end="126"/>
+     <spell start="126" end="127"/>
+     <spell start="127" end="128"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="7"/>
+    </attvalues>
+   </node>
+   <node id="Dienerin der Gräfin von Nârisôn" label="Dienerin der Gräfin von Nârisôn">
+    <spells>
+     <spell start="115" end="116"/>
+     <spell start="120" end="121"/>
+     <spell start="122" end="123"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="3"/>
+    </attvalues>
+   </node>
+   <node id="Âliers" label="Âliers">
+    <spells>
+     <spell start="124" end="125"/>
+     <spell start="126" end="127"/>
+     <spell start="127" end="128"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="3"/>
+    </attvalues>
+   </node>
+   <node id="Burgherr (Harpin-Episode)" label="Burgherr (Harpin-Episode)">
+    <spells>
+     <spell start="147" end="148"/>
+     <spell start="148" end="149"/>
+     <spell start="149" end="150"/>
+     <spell start="159" end="160"/>
+     <spell start="162" end="163"/>
+     <spell start="165" end="166"/>
+     <spell start="170" end="171"/>
+     <spell start="171" end="172"/>
+     <spell start="194" end="195"/>
+     <spell start="195" end="196"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="10"/>
+    </attvalues>
+   </node>
+   <node id="Tochter (Harpin-Episode)" label="Tochter (Harpin-Episode)">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="166" end="167"/>
+     <spell start="190" end="191"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="3"/>
+    </attvalues>
+   </node>
+   <node id="Gâweins Schwester" label="Gâweins Schwester">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="162" end="163"/>
+     <spell start="170" end="171"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="3"/>
+    </attvalues>
+   </node>
+   <node id="Burgherr (zum Schlimmen Abenteuer)" label="Burgherr (zum Schlimmen Abenteuer)">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="215" end="216"/>
+     <spell start="220" end="221"/>
+     <spell start="222" end="223"/>
+     <spell start="227" end="228"/>
+     <spell start="228" end="229"/>
+     <spell start="229" end="230"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="7"/>
+    </attvalues>
+   </node>
+   <node id="Kinder (Harpin-Episode)" label="Kinder (Harpin-Episode)">
+    <spells>
+     <spell start="162" end="163"/>
+     <spell start="164" end="165"/>
+     <spell start="165" end="166"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="3"/>
+    </attvalues>
+   </node>
+   <node id="Graf vom Schwarzen Dorn" label="Graf vom Schwarzen Dorn">
+    <spells>
+     <spell start="188" end="189"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="1"/>
+    </attvalues>
+   </node>
+   <node id="Jüngere Tochter (Gerichtskampf)" label="Jüngere Tochter (Gerichtskampf)">
+    <spells>
+     <spell start="188" end="189"/>
+     <spell start="189" end="190"/>
+     <spell start="190" end="191"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="243" end="244"/>
+     <spell start="244" end="245"/>
+     <spell start="245" end="246"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="8"/>
+    </attvalues>
+   </node>
+   <node id="Meljaganz" label="Meljaganz">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="1"/>
+    </attvalues>
+   </node>
+   <node id="verwandtes Mädchen (Gerichtskampf)" label="verwandtes Mädchen (Gerichtskampf)">
+    <spells>
+     <spell start="193" end="194"/>
+     <spell start="194" end="195"/>
+     <spell start="196" end="197"/>
+     <spell start="203" end="204"/>
+     <spell start="215" end="216"/>
+     <spell start="220" end="221"/>
+     <spell start="230" end="231"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="7"/>
+    </attvalues>
+   </node>
+   <node id="300 gefangene Frauen (zum Schlimmen Abenteuer)" label="300 gefangene Frauen (zum Schlimmen Abenteuer)">
+    <spells>
+     <spell start="207" end="208"/>
+     <spell start="208" end="209"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="2"/>
+    </attvalues>
+   </node>
+   <node id="Tochter (zum Schlimmen Abenteuer)" label="Tochter (zum Schlimmen Abenteuer)">
+    <spells>
+     <spell start="216" end="217"/>
+     <spell start="227" end="228"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="2"/>
+    </attvalues>
+   </node>
+   <node id="zwei Riesen (zum Schlimmen Abenteuer)" label="zwei Riesen (zum Schlimmen Abenteuer)">
+    <spells>
+     <spell start="223" end="224"/>
+     <spell start="224" end="225"/>
+    </spells>
+    <attvalues>
+     <attvalue for="5" value="2"/>
+    </attvalues>
+   </node>
+  </nodes>
+  <edges count="114">
+   <edge id="1" source="Artûs" target="Ältere Tochter (Gerichtskampf)" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="256" end="257"/>
+     <spell start="192" end="193"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="243" end="244"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="2" source="Artûs" target="Ginover" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="2" end="3"/>
+     <spell start="3" end="4"/>
+     <spell start="4" end="5"/>
+     <spell start="260" end="261"/>
+     <spell start="30" end="31"/>
+     <spell start="251" end="252"/>
+    </spells>
+   </edge>
+   <edge id="3" source="Artûs" target="Îwein" type="undirected" label="" weight="19.0">
+    <spells>
+     <spell start="258" end="259"/>
+     <spell start="3" end="4"/>
+     <spell start="260" end="261"/>
+     <spell start="81" end="82"/>
+     <spell start="82" end="83"/>
+     <spell start="85" end="86"/>
+     <spell start="86" end="87"/>
+     <spell start="89" end="90"/>
+     <spell start="90" end="91"/>
+     <spell start="92" end="93"/>
+     <spell start="99" end="100"/>
+     <spell start="103" end="104"/>
+     <spell start="107" end="108"/>
+     <spell start="192" end="193"/>
+     <spell start="231" end="232"/>
+     <spell start="245" end="246"/>
+     <spell start="251" end="252"/>
+     <spell start="254" end="255"/>
+     <spell start="255" end="256"/>
+    </spells>
+   </edge>
+   <edge id="4" source="Artûs" target="Segremors" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="5" source="Artûs" target="Dodines" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="6" source="Artûs" target="Keiî" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="4" end="5"/>
+     <spell start="82" end="83"/>
+     <spell start="85" end="86"/>
+     <spell start="86" end="87"/>
+     <spell start="87" end="88"/>
+    </spells>
+   </edge>
+   <edge id="7" source="Artûs" target="Gâwein" type="undirected" label="" weight="9.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="260" end="261"/>
+     <spell start="90" end="91"/>
+     <spell start="92" end="93"/>
+     <spell start="192" end="193"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="245" end="246"/>
+     <spell start="254" end="255"/>
+    </spells>
+   </edge>
+   <edge id="25" source="Artûs" target="Kâlogrenant" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="4" end="5"/>
+     <spell start="30" end="31"/>
+    </spells>
+   </edge>
+   <edge id="34" source="Artûs" target="Uterpandragôn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="30" end="31"/>
+    </spells>
+   </edge>
+   <edge id="44" source="Artûs" target="Ascalôn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="82" end="83"/>
+    </spells>
+   </edge>
+   <edge id="45" source="Artûs" target="Artushof (Kollektiv)" type="undirected" label="" weight="4.0">
+    <spells>
+     <spell start="86" end="87"/>
+     <spell start="103" end="104"/>
+     <spell start="230" end="231"/>
+     <spell start="254" end="255"/>
+    </spells>
+   </edge>
+   <edge id="50" source="Artûs" target="Lûnete" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="104" end="105"/>
+     <spell start="107" end="108"/>
+     <spell start="108" end="109"/>
+    </spells>
+   </edge>
+   <edge id="106" source="Artûs" target="verwandtes Mädchen (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="107" source="Artûs" target="Jüngere Tochter (Gerichtskampf)" type="undirected" label="" weight="4.0">
+    <spells>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="243" end="244"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="79" source="Ältere Tochter (Gerichtskampf)" target="Gâwein" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="189" end="190"/>
+     <spell start="190" end="191"/>
+     <spell start="192" end="193"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="91" source="Ältere Tochter (Gerichtskampf)" target="Tochter (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="92" source="Ältere Tochter (Gerichtskampf)" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="93" source="Ältere Tochter (Gerichtskampf)" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="94" source="Ältere Tochter (Gerichtskampf)" target="Îwein" type="undirected" label="" weight="5.0">
+    <spells>
+     <spell start="190" end="191"/>
+     <spell start="192" end="193"/>
+     <spell start="231" end="232"/>
+     <spell start="244" end="245"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="113" source="Ältere Tochter (Gerichtskampf)" target="Artushof (Kollektiv)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="17" source="Ginover" target="Keiî" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="4" end="5"/>
+     <spell start="8" end="9"/>
+    </spells>
+   </edge>
+   <edge id="18" source="Ginover" target="Gâwein" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="260" end="261"/>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="19" source="Ginover" target="Îwein" type="undirected" label="" weight="4.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="260" end="261"/>
+     <spell start="190" end="191"/>
+     <spell start="251" end="252"/>
+    </spells>
+   </edge>
+   <edge id="26" source="Ginover" target="Kâlogrenant" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="4" end="5"/>
+     <spell start="30" end="31"/>
+    </spells>
+   </edge>
+   <edge id="98" source="Ginover" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="104" source="Îwein" target="zwei Riesen (zum Schlimmen Abenteuer)" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="223" end="224"/>
+     <spell start="224" end="225"/>
+    </spells>
+   </edge>
+   <edge id="8" source="Segremors" target="Dodines" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="9" source="Segremors" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="10" source="Segremors" target="Keiî" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="11" source="Segremors" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="12" source="Segremors" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="13" source="Dodines" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="14" source="Dodines" target="Keiî" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="15" source="Dodines" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="16" source="Dodines" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="3" end="4"/>
+    </spells>
+   </edge>
+   <edge id="20" source="Keiî" target="Gâwein" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="88" end="89"/>
+    </spells>
+   </edge>
+   <edge id="21" source="Keiî" target="Îwein" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="27" end="28"/>
+     <spell start="36" end="37"/>
+     <spell start="82" end="83"/>
+     <spell start="85" end="86"/>
+     <spell start="86" end="87"/>
+    </spells>
+   </edge>
+   <edge id="27" source="Keiî" target="Kâlogrenant" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="4" end="5"/>
+    </spells>
+   </edge>
+   <edge id="22" source="Gâwein" target="Îwein" type="undirected" label="" weight="16.0">
+    <spells>
+     <spell start="3" end="4"/>
+     <spell start="259" end="260"/>
+     <spell start="260" end="261"/>
+     <spell start="90" end="91"/>
+     <spell start="91" end="92"/>
+     <spell start="92" end="93"/>
+     <spell start="93" end="94"/>
+     <spell start="190" end="191"/>
+     <spell start="192" end="193"/>
+     <spell start="231" end="232"/>
+     <spell start="234" end="235"/>
+     <spell start="242" end="243"/>
+     <spell start="245" end="246"/>
+     <spell start="246" end="247"/>
+     <spell start="253" end="254"/>
+     <spell start="254" end="255"/>
+    </spells>
+   </edge>
+   <edge id="99" source="Gâwein" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="23" source="Harpîn" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="259" end="260"/>
+    </spells>
+   </edge>
+   <edge id="24" source="Harpîn" target="Îwein" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="259" end="260"/>
+     <spell start="167" end="168"/>
+     <spell start="168" end="169"/>
+     <spell start="169" end="170"/>
+     <spell start="170" end="171"/>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="74" source="Harpîn" target="Burgherr (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="170" end="171"/>
+    </spells>
+   </edge>
+   <edge id="39" source="Kâlogrenant" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="33" end="34"/>
+    </spells>
+   </edge>
+   <edge id="28" source="Laudîne" target="Artûs" type="undirected" label="" weight="7.0">
+    <spells>
+     <spell start="260" end="261"/>
+     <spell start="81" end="82"/>
+     <spell start="89" end="90"/>
+     <spell start="92" end="93"/>
+     <spell start="99" end="100"/>
+     <spell start="103" end="104"/>
+     <spell start="108" end="109"/>
+    </spells>
+   </edge>
+   <edge id="29" source="Laudîne" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="260" end="261"/>
+    </spells>
+   </edge>
+   <edge id="30" source="Laudîne" target="Gâwein" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="260" end="261"/>
+     <spell start="92" end="93"/>
+    </spells>
+   </edge>
+   <edge id="31" source="Laudîne" target="Îwein" type="undirected" label="" weight="17.0">
+    <spells>
+     <spell start="260" end="261"/>
+     <spell start="268" end="269"/>
+     <spell start="45" end="46"/>
+     <spell start="48" end="49"/>
+     <spell start="54" end="55"/>
+     <spell start="58" end="59"/>
+     <spell start="67" end="68"/>
+     <spell start="73" end="74"/>
+     <spell start="80" end="81"/>
+     <spell start="81" end="82"/>
+     <spell start="89" end="90"/>
+     <spell start="92" end="93"/>
+     <spell start="99" end="100"/>
+     <spell start="103" end="104"/>
+     <spell start="131" end="132"/>
+     <spell start="132" end="133"/>
+     <spell start="184" end="185"/>
+    </spells>
+   </edge>
+   <edge id="32" source="Laudîne" target="Lûnete" type="undirected" label="" weight="12.0">
+    <spells>
+     <spell start="262" end="263"/>
+     <spell start="268" end="269"/>
+     <spell start="44" end="45"/>
+     <spell start="48" end="49"/>
+     <spell start="58" end="59"/>
+     <spell start="59" end="60"/>
+     <spell start="67" end="68"/>
+     <spell start="70" end="71"/>
+     <spell start="73" end="74"/>
+     <spell start="74" end="75"/>
+     <spell start="108" end="109"/>
+     <spell start="182" end="183"/>
+    </spells>
+   </edge>
+   <edge id="42" source="Laudîne" target="Ascalôn" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="44" end="45"/>
+     <spell start="54" end="55"/>
+     <spell start="74" end="75"/>
+    </spells>
+   </edge>
+   <edge id="49" source="Laudîne" target="Artushof (Kollektiv)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="103" end="104"/>
+    </spells>
+   </edge>
+   <edge id="33" source="Lûnete" target="Îwein" type="undirected" label="" weight="15.0">
+    <spells>
+     <spell start="266" end="267"/>
+     <spell start="268" end="269"/>
+     <spell start="272" end="273"/>
+     <spell start="48" end="49"/>
+     <spell start="50" end="51"/>
+     <spell start="58" end="59"/>
+     <spell start="67" end="68"/>
+     <spell start="73" end="74"/>
+     <spell start="91" end="92"/>
+     <spell start="107" end="108"/>
+     <spell start="172" end="173"/>
+     <spell start="173" end="174"/>
+     <spell start="177" end="178"/>
+     <spell start="179" end="180"/>
+     <spell start="180" end="181"/>
+    </spells>
+   </edge>
+   <edge id="43" source="Lûnete" target="Ascalôn" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="44" end="45"/>
+     <spell start="74" end="75"/>
+    </spells>
+   </edge>
+   <edge id="48" source="Lûnete" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="91" end="92"/>
+    </spells>
+   </edge>
+   <edge id="35" source="Uterpandragôn" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="30" end="31"/>
+    </spells>
+   </edge>
+   <edge id="36" source="Uterpandragôn" target="Kâlogrenant" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="30" end="31"/>
+    </spells>
+   </edge>
+   <edge id="37" source="Waldmann" target="Kâlogrenant" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="33" end="34"/>
+    </spells>
+   </edge>
+   <edge id="38" source="Waldmann" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="33" end="34"/>
+    </spells>
+   </edge>
+   <edge id="40" source="Ascalôn" target="Îwein" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="34" end="35"/>
+     <spell start="36" end="37"/>
+     <spell start="37" end="38"/>
+     <spell start="38" end="39"/>
+     <spell start="54" end="55"/>
+     <spell start="82" end="83"/>
+    </spells>
+   </edge>
+   <edge id="41" source="Ascalôn" target="Keiî" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="36" end="37"/>
+     <spell start="82" end="83"/>
+    </spells>
+   </edge>
+   <edge id="46" source="Artushof (Kollektiv)" target="Keiî" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="86" end="87"/>
+    </spells>
+   </edge>
+   <edge id="47" source="Artushof (Kollektiv)" target="Îwein" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="86" end="87"/>
+     <spell start="103" end="104"/>
+     <spell start="254" end="255"/>
+    </spells>
+   </edge>
+   <edge id="114" source="Artushof (Kollektiv)" target="Gâwein" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="230" end="231"/>
+     <spell start="254" end="255"/>
+    </spells>
+   </edge>
+   <edge id="51" source="Gräfin von Nârisôn" target="Îwein" type="undirected" label="" weight="5.0">
+    <spells>
+     <spell start="114" end="115"/>
+     <spell start="122" end="123"/>
+     <spell start="125" end="126"/>
+     <spell start="126" end="127"/>
+     <spell start="127" end="128"/>
+    </spells>
+   </edge>
+   <edge id="52" source="Gräfin von Nârisôn" target="Dienerin der Gräfin von Nârisôn" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="115" end="116"/>
+     <spell start="122" end="123"/>
+    </spells>
+   </edge>
+   <edge id="55" source="Gräfin von Nârisôn" target="Âliers" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="126" end="127"/>
+     <spell start="127" end="128"/>
+    </spells>
+   </edge>
+   <edge id="53" source="Dienerin der Gräfin von Nârisôn" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="122" end="123"/>
+    </spells>
+   </edge>
+   <edge id="54" source="Âliers" target="Îwein" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="124" end="125"/>
+     <spell start="126" end="127"/>
+     <spell start="127" end="128"/>
+    </spells>
+   </edge>
+   <edge id="56" source="Burgherr (Harpin-Episode)" target="Îwein" type="undirected" label="" weight="7.0">
+    <spells>
+     <spell start="147" end="148"/>
+     <spell start="148" end="149"/>
+     <spell start="149" end="150"/>
+     <spell start="159" end="160"/>
+     <spell start="165" end="166"/>
+     <spell start="170" end="171"/>
+     <spell start="171" end="172"/>
+    </spells>
+   </edge>
+   <edge id="70" source="Burgherr (Harpin-Episode)" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="162" end="163"/>
+    </spells>
+   </edge>
+   <edge id="57" source="Tochter (Harpin-Episode)" target="Gâweins Schwester" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="159" end="160"/>
+    </spells>
+   </edge>
+   <edge id="58" source="Tochter (Harpin-Episode)" target="Burgherr (zum Schlimmen Abenteuer)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="159" end="160"/>
+    </spells>
+   </edge>
+   <edge id="59" source="Tochter (Harpin-Episode)" target="Burgherr (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="159" end="160"/>
+    </spells>
+   </edge>
+   <edge id="60" source="Tochter (Harpin-Episode)" target="Îwein" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="166" end="167"/>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="95" source="Tochter (Harpin-Episode)" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="96" source="Tochter (Harpin-Episode)" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="97" source="Tochter (Harpin-Episode)" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="61" source="Gâweins Schwester" target="Burgherr (zum Schlimmen Abenteuer)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="159" end="160"/>
+    </spells>
+   </edge>
+   <edge id="62" source="Gâweins Schwester" target="Burgherr (Harpin-Episode)" type="undirected" label="" weight="3.0">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="162" end="163"/>
+     <spell start="170" end="171"/>
+    </spells>
+   </edge>
+   <edge id="63" source="Gâweins Schwester" target="Îwein" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="170" end="171"/>
+    </spells>
+   </edge>
+   <edge id="66" source="Gâweins Schwester" target="Kinder (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="162" end="163"/>
+    </spells>
+   </edge>
+   <edge id="67" source="Gâweins Schwester" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="162" end="163"/>
+    </spells>
+   </edge>
+   <edge id="73" source="Gâweins Schwester" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="170" end="171"/>
+    </spells>
+   </edge>
+   <edge id="64" source="Burgherr (zum Schlimmen Abenteuer)" target="Burgherr (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="159" end="160"/>
+    </spells>
+   </edge>
+   <edge id="65" source="Burgherr (zum Schlimmen Abenteuer)" target="Îwein" type="undirected" label="" weight="6.0">
+    <spells>
+     <spell start="159" end="160"/>
+     <spell start="220" end="221"/>
+     <spell start="222" end="223"/>
+     <spell start="227" end="228"/>
+     <spell start="228" end="229"/>
+     <spell start="229" end="230"/>
+    </spells>
+   </edge>
+   <edge id="68" source="Kinder (Harpin-Episode)" target="Burgherr (Harpin-Episode)" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="162" end="163"/>
+     <spell start="165" end="166"/>
+    </spells>
+   </edge>
+   <edge id="69" source="Kinder (Harpin-Episode)" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="162" end="163"/>
+    </spells>
+   </edge>
+   <edge id="71" source="Kinder (Harpin-Episode)" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="164" end="165"/>
+    </spells>
+   </edge>
+   <edge id="72" source="Kinder (Harpin-Episode)" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="165" end="166"/>
+    </spells>
+   </edge>
+   <edge id="75" source="Graf vom Schwarzen Dorn" target="Jüngere Tochter (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="188" end="189"/>
+    </spells>
+   </edge>
+   <edge id="76" source="Graf vom Schwarzen Dorn" target="Ältere Tochter (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="188" end="189"/>
+    </spells>
+   </edge>
+   <edge id="77" source="Jüngere Tochter (Gerichtskampf)" target="Ältere Tochter (Gerichtskampf)" type="undirected" label="" weight="8.0">
+    <spells>
+     <spell start="188" end="189"/>
+     <spell start="189" end="190"/>
+     <spell start="190" end="191"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="243" end="244"/>
+     <spell start="244" end="245"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="78" source="Jüngere Tochter (Gerichtskampf)" target="Gâwein" type="undirected" label="" weight="5.0">
+    <spells>
+     <spell start="189" end="190"/>
+     <spell start="190" end="191"/>
+     <spell start="230" end="231"/>
+     <spell start="231" end="232"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="87" source="Jüngere Tochter (Gerichtskampf)" target="Tochter (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="88" source="Jüngere Tochter (Gerichtskampf)" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="89" source="Jüngere Tochter (Gerichtskampf)" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="90" source="Jüngere Tochter (Gerichtskampf)" target="Îwein" type="undirected" label="" weight="4.0">
+    <spells>
+     <spell start="190" end="191"/>
+     <spell start="231" end="232"/>
+     <spell start="244" end="245"/>
+     <spell start="245" end="246"/>
+    </spells>
+   </edge>
+   <edge id="112" source="Jüngere Tochter (Gerichtskampf)" target="Artushof (Kollektiv)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="80" source="Meljaganz" target="Jüngere Tochter (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="81" source="Meljaganz" target="Ältere Tochter (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="82" source="Meljaganz" target="Tochter (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="83" source="Meljaganz" target="Ginover" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="84" source="Meljaganz" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="85" source="Meljaganz" target="Harpîn" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="86" source="Meljaganz" target="Îwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="190" end="191"/>
+    </spells>
+   </edge>
+   <edge id="100" source="verwandtes Mädchen (Gerichtskampf)" target="Îwein" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="193" end="194"/>
+     <spell start="220" end="221"/>
+    </spells>
+   </edge>
+   <edge id="101" source="verwandtes Mädchen (Gerichtskampf)" target="Burgherr (Harpin-Episode)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="194" end="195"/>
+    </spells>
+   </edge>
+   <edge id="102" source="verwandtes Mädchen (Gerichtskampf)" target="Burgherr (zum Schlimmen Abenteuer)" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="215" end="216"/>
+     <spell start="220" end="221"/>
+    </spells>
+   </edge>
+   <edge id="108" source="verwandtes Mädchen (Gerichtskampf)" target="Jüngere Tochter (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="109" source="verwandtes Mädchen (Gerichtskampf)" target="Ältere Tochter (Gerichtskampf)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="110" source="verwandtes Mädchen (Gerichtskampf)" target="Artushof (Kollektiv)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="111" source="verwandtes Mädchen (Gerichtskampf)" target="Gâwein" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="230" end="231"/>
+    </spells>
+   </edge>
+   <edge id="103" source="Tochter (zum Schlimmen Abenteuer)" target="Îwein" type="undirected" label="" weight="2.0">
+    <spells>
+     <spell start="216" end="217"/>
+     <spell start="227" end="228"/>
+    </spells>
+   </edge>
+   <edge id="105" source="Tochter (zum Schlimmen Abenteuer)" target="Burgherr (zum Schlimmen Abenteuer)" type="undirected" label="" weight="1.0">
+    <spells>
+     <spell start="227" end="228"/>
+    </spells>
+   </edge>
+  </edges>
+ </graph>
+</gexf>
