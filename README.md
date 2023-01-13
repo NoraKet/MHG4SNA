@@ -86,7 +86,7 @@ The annotated texts can be downloaded in multiple formats: conll, csv, and gexf.
 
 The csv file contains all annotations of the category PER including entity grounding. 
 
-The file contains the following columns: begin and end of the entity reference expression, doc_id (document id), buch (book number), quote (entity reference expression), coref (the entity instance that the expression refers to), overlap (indicates if there is an embedded entity), ek and ek2 (narrator's comment), ds (direct speech), space (annotations of the space where the story takes action, can be ignored here), segnr (number of segment), em (?), klasse (entity class), xrange (range).
+The file contains the following columns: begin and end (start and end of the entity reference expression, character offset), doc_id (document id), buch (book number), quote (entity reference expression), coref (the entity instance that the expression refers to), overlap (indicates if there is an overlap, relevant for embedded entities), ek and ek2 (narrator's comment), ds (direct speech), space (annotations of the space where the story takes action, can be ignored here), segnr (number of segment), em (embedded), klasse (entity class), xrange (technical, relevant for annotation view).
 
 >Gexf
 
