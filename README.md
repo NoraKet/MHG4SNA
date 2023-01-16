@@ -56,7 +56,7 @@ The texts are subdivided in passages of 30 verses. Since some text's editions ('
 
 According to the editions by Lachmann, 'Parzival' and 'Willehalm' are also subdivided in chapter-like books (Parzival: book 1 to 16, Willehalm: book 1 to 9). The other texts are similarly subdivided in chapter-like sections following common content-based divisions.
 
-> Social Network Analysis
+# Social Network Analysis
 
 The data can be used to explore and analyse the social network of the texts. SNA can be performed via gephi [4] using the gefx files.
 
