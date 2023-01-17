@@ -109,4 +109,4 @@ To visualize the graph dynamically, one can use the text segmentation as timelin
 
 # How to cite?
 
-Please cite the zenodo publication linked to this github repository: LINK tbc
+Please cite the zenodo publication linked to this github repository: https://doi.org/10.5281/zenodo.7544005
