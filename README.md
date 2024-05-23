@@ -101,7 +101,7 @@ To visualize the graph dynamically, one can use the text segmentation as timelin
 
 [1] https://www.creta.uni-stuttgart.de/, the project was funded by BMBF.
 
-[2] for more information cf. Nora Ketschik, Maximilian Overbeck, Sandra Murr, Axel Pichler, André Blessing (2020). "Interdisziplinäre Annotation von Entitätenreferenzen." Reflektierte algorithmische Textanalyse. Interdisziplinäre(s) Arbeiten in der CRETA-Werkstatt, ed. by Nils Reiter, Axel Pichler and Jonas Kuhn, pp. 203-263.
+[2] Nils Reiter, Andre Blessing, Nora Ketschik, Sandra Murr, Maximilian Overbeck, Axel Pichler (2023). Annotation Guidelines for Entity Reference Annotation (CRETA) (v1.1), https://zenodo.org/doi/10.5281/zenodo.7684267. For more information cf. Nora Ketschik, Maximilian Overbeck, Sandra Murr, Axel Pichler, André Blessing (2020). "Interdisziplinäre Annotation von Entitätenreferenzen." Reflektierte algorithmische Textanalyse. Interdisziplinäre(s) Arbeiten in der CRETA-Werkstatt, ed. by Nils Reiter, Axel Pichler and Jonas Kuhn, pp. 203-263.
 
 [3] Nora Echelmeyer, Nils Reiter, Sarah Schulz (2017). "Ein PoS-Tagger für 'das' Mittelhochdeutsche." Dhd 2017 Konferenzabstracts, pp. 141-147. An online version can be used here: http://clarin05.ims.uni-stuttgart.de/mhdtt/index.html; the mhg model can be downloaded here: https://www.ims.uni-stuttgart.de/forschung/ressourcen/werkzeuge/pos-tag-mhg/.
 
